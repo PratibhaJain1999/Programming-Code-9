@@ -1,0 +1,28 @@
+HTML
+<!Doctype html>
+<html lang="en">
+<head>
+    <title> css</title>
+    <link rel="stylesheet" href="../CSS/pratibha session 9.css">
+</head>
+<body>
+    <label for="person">Choose a person:</label>
+    <select id ="person" name="pers">
+        <option value="1"> Pratibha1 </option>
+        <option value="2"> Pratibha2</option>
+        <option value="3"> Pratibha3</option>
+        <option value="4"> Pratibha4</option>
+        <option value="5"> Pratibha5</option>
+        <option value="6"> Pratibha6</option>
+    </select>
+    <br>
+    <br>
+    <audio controls>
+        <source src="../Media/AUD-20200430-WA0013.m4a">
+    </audio>
+    <br><br>
+    <video controls autoplay muted>
+        <source src="../Media/vedio.mp4">
+    </video>
+</body>
+</html>
